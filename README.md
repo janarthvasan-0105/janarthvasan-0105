@@ -22,3 +22,5 @@
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/windows-logo.png" alt="windows-logo"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7_7600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Janarthvasan?theme=dark&font=Marcellus&ext=contest)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=janarthvasan-0105&bg_color=24292f&color=adbac7&line=adbac7&point=539bf5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
