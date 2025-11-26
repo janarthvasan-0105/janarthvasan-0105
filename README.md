@@ -1,6 +1,7 @@
 ## Hii I’m Janarthvasan, and I build what others just imagine.
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463eac1257e.gif">
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
 - 🌱 I'm Currently pursuing my M.Sc Integrated in AI & ML
 - 🔭 I’m currently working on Drone Simulations
 - 👯 I’m Looking to collaborate on AI, drone systems, and impactful tech builds. 
