@@ -21,4 +21,4 @@
 ### 💻 Workspace Spec
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/windows-logo.png" alt="windows-logo"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7_7600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Janarthvasan?theme=dark&font=Marcellus&ext=contest)
