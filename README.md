@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hii I’m Janarthvasan, and I build what others just imagine.
 
-<!--
-**janarthvasan-0105/janarthvasan-0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463eac1257e.gif">
+- 🌱 I'm Currently pursuing my M.Sc Integrated in AI & ML
+- 🔭 I’m currently working on Drone Simulations
+- 👯 I’m Looking to collaborate on AI, drone systems, and impactful tech builds. 
+- 🤔 I’m looking for help with Internships
+- 💬 Ask me about Drones
+- 📫 How to reach me: 
+<br /> [<img src="	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://x.com/JanarthVasan). [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/janarth-vasan-591511285/).
+- 😄 Pronouns: He/Him — wired to think, built to grow.
+- ⚡ Fun fact: I learn fast, fail fast, fix faster
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
