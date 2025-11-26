@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with Internships
 - 💬 Ask me about Drones
 - 📫 How to reach me: 
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/janarth-vasan-591511285/).
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/janarth-vasan-591511285/)
 - 😄 Pronouns: He/Him — wired to think, built to grow.
 - ⚡ Fun fact: I learn fast, fail fast, fix faster
 
